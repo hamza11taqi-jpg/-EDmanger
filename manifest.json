@@ -1,9 +1,9 @@
 {
-  "name": "EDmanger",
-  "short_name": "EDmanger",
+  "name": "-EDmanger",
+  "short_name": "-EDmanger",
   "description": "تطبيق إدارة الحضور",
-  "start_url": "/EDmanger/index.html",
-  "scope": "/EDmanger/",
+  "start_url": "-EDmanger/index.html",
+  "scope": "-EDmanger/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1e3a8a",
